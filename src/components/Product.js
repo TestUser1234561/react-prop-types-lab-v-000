@@ -15,7 +15,7 @@ export default class Product extends Component {
 	}
 }
 
-Product.propDefaults = {
+Product.defaultProps = {
   hasWatermark: false
 }
 
